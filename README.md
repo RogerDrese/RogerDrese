@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RogerDrese
 - 👀 I’m interested in ... learn
-- 🌱 I’m currently learning ... about life
+- 🌱 I’m currently learning ... HTML5, CSS3
 - 💞️ I’m looking to collaborate on ... my mind
 - 📫 How to reach me ... 55 51995008553
 
